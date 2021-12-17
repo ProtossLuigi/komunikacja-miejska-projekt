@@ -1,0 +1,11 @@
+﻿vehicle_type_id,vehicle_type_name,vehicle_type_description,vehicle_type_symbol
+1,"Solo","","S"
+2,"Przegubowy","","P"
+8,"Midi","","M"
+13,"Mini","","m"
+92,"M - Moderus [N!]","N - kurs obsługiwany przez tramwaj NISKOPODŁOGOWY","M"
+96,"$ - Skoda 19T [N]","N - kurs obsługiwany przez tramwaj NISKOPODŁOGOWY","$"
+123,"P - Pesa [N]","N - kurs obsługiwany przez tramwaj NISKOPODŁOGOWY","P"
+138,"d - 2x105Na","","d"
+141,"D - 2x105N/2x204WrAs","","D"
+142,"N - Moderus/Skoda [N]","N - kurs obsługiwany przez tramwaj NISKOPODŁOGOWY","N"
