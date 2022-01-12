@@ -50,7 +50,7 @@ def request_loop(routes):
                 dump_data(df)
                 counter = 0
                 df = None
-            sleep(INTERVAL - (time() - loop_start))
+            sleep(max(INTERVAL - (time() - loop_start), 0))
     except KeyboardInterrupt:
         print(f'Script was running for {time() - start_time:.0f} seconds.')
         if not df is None:
